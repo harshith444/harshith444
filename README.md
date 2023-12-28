@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing softwares,exploring new things and ready to face new Challenges
 - 🌱 I’m currently learning Artificial Intellegence models 
 - 📫 You can reach me via
-E-mail:katakamharshith@gmail.com
+E-mail:katakamharshith4@gmail.com
 Linkedin:https://www.linkedin.com/in/harshith-katakam/
 
 <!---
