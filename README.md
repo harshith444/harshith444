@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **CV Generator**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning ** **Data Engineering Tech****
 
 - 👯 I’m looking to collaborate on **Research Publication**
 
