@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **katakamharshith4@gmail.com**
 
-- 📄 Know about my experiences [https://kluniversityin-my.sharepoint.com/:w:/g/personal/180030358_kluniversity_in/EYBxp__1iwJFtnt1qBoWQPABsBgYXl4NFT4KRT_iDs2omw?e=GgA7ni](https://kluniversityin-my.sharepoint.com/:w:/g/personal/180030358_kluniversity_in/EYBxp__1iwJFtnt1qBoWQPABsBgYXl4NFT4KRT_iDs2omw?e=GgA7ni)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
