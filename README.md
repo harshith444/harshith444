@@ -107,18 +107,19 @@ Azure · AWS · Snowflake · Databricks · Docker · Flask · Node.js · React
 
 ---
 
-## GitHub Pulse
+## GitHub Activity
 
-<div align="center">
+| Focus | Repository |
+|---|---|
+| **AI analytics copilot** | [github.com/harshith444/ai-insight-copilot](https://github.com/harshith444/ai-insight-copilot) |
+| **Notebook data cleaning agent** | [github.com/harshith444/data-quality-radar](https://github.com/harshith444/data-quality-radar) |
+| **Profile landing page** | [github.com/harshith444/harshith444](https://github.com/harshith444/harshith444) |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshith444&show_icons=true&include_all_commits=true&hide_border=true&title_color=22D3EE&icon_color=F59E0B&text_color=E2E8F0&bg_color=020617&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshith444&layout=compact&hide_border=true&title_color=22D3EE&text_color=E2E8F0&bg_color=020617&langs_count=8" alt="Top languages" />
-
-<br /><br />
-
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshith444&bg_color=020617&color=E2E8F0&line=22D3EE&point=F59E0B&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/harshith444?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20all%20repositories-020617?style=for-the-badge&logo=github&logoColor=22D3EE" alt="View all repositories" />
+  </a>
+</p>
 
 ---
 
