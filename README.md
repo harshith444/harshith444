@@ -1,13 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:111827,45:10B981,100:F59E0B&text=Harshith%20Katakam&fontColor=FFFFFF&fontSize=58&fontAlignY=37&desc=Data%20Analytics%20Engineer%20%7C%20AI%20Data%20Products%20%7C%20Modern%20Analytics&descAlignY=58&animation=fadeIn" alt="Harshith Katakam banner" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=2300&pause=650&color=10B981&center=true&vCenter=true&width=920&lines=Data+Analytics+Engineer;AI-powered+analytics+%2B+modern+data+systems;Building+from+raw+signals+to+clear+decisions)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=190&color=0:020617,55:0F766E,100:F59E0B&text=Harshith%20Katakam&fontColor=F8FAFC&fontSize=46&fontAlignY=40&desc=Data%20Analytics%20Engineer%20building%20AI-first%20data%20systems&descAlignY=68&descSize=15" alt="Harshith Katakam - Data Analytics Engineer" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=harshith444&label=Profile%20Views&color=10b981&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Base-USA-F59E0B?style=for-the-badge&logo=googlemaps&logoColor=111827" alt="USA" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Data%20Projects-10B981?style=for-the-badge&logo=openai&logoColor=white" alt="AI Data Projects" />
+  <img src="https://img.shields.io/badge/Data%20Analytics%20Engineer-0F172A?style=for-the-badge&logo=databricks&logoColor=22D3EE" alt="Data Analytics Engineer" />
+  <img src="https://img.shields.io/badge/AI%20Data%20Systems-155E75?style=for-the-badge&logo=openai&logoColor=F8FAFC" alt="AI Data Systems" />
+  <img src="https://img.shields.io/badge/USA-111827?style=for-the-badge&logo=googlemaps&logoColor=F59E0B" alt="USA" />
 </p>
 
 </div>
@@ -16,69 +14,110 @@
 
 ## Snapshot
 
-I build analytics systems that feel fast, clean, and intelligent.
+I build data systems that clean, reason, and explain. My focus is turning messy datasets into trusted analytics layers, then adding AI agents that help teams query, validate, and act on their data faster.
 
-Focused on AI-powered data products, reliable pipelines, modern dashboards, and decision systems that turn raw data into useful action.
-
----
-
-## Launching Now
-
-<div align="center">
-
-| Project | Open Repo | What It Does | Stack |
-|---|---|---|
-| **AI Insight Copilot** | [![Open Repo](https://img.shields.io/badge/Open-ai--insight--copilot-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshith444/ai-insight-copilot) | RAG-grounded copilot that retrieves schema context and answers across different datasets | Node.js, JavaScript, retrieval, CSV analytics |
-| **Data Quality Radar** | [![Open Repo](https://img.shields.io/badge/Open-data--quality--radar-F59E0B?style=for-the-badge&logo=github&logoColor=111827)](https://github.com/harshith444/data-quality-radar) | Scores datasets for missing values, duplicates, drift, freshness, and anomalies | Node.js, JavaScript, quality rules |
-
-</div>
+```yaml
+focus:
+  - AI-assisted analytics
+  - data quality automation
+  - notebook-first data agents
+  - cloud-ready data workflows
+```
 
 ---
 
-## Modern Data Stack
+## Current Work
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [AI Insight Copilot](https://github.com/harshith444/ai-insight-copilot)
+
+Offline-first analytics copilot that profiles datasets, retrieves schema context, generates SQL-style logic, and answers questions across local files with optional Snowflake, AWS, and Azure connector paths.
 
 <p>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Offline%20First-111827?style=flat-square" alt="Offline First" />
+  <img src="https://img.shields.io/badge/Connectors-F59E0B?style=flat-square" alt="Connectors" />
 </p>
 
+</td>
+<td width="50%" valign="top">
+
+### [Data Quality Radar](https://github.com/harshith444/data-quality-radar)
+
+Notebook-first cleaning agent for Pandas and Databricks-style workflows. It profiles data, detects quality issues, proposes safe fixes, applies approved cleaning, and returns ML-style next analysis guidance.
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,postgres,mongodb,azure,docker,kubernetes,terraform,git,linux" alt="Core technology stack" />
+  <img src="https://img.shields.io/badge/Python-0F766E?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-111827?style=flat-square" alt="Data Cleaning" />
+  <img src="https://img.shields.io/badge/Notebook%20Agent-F59E0B?style=flat-square" alt="Notebook Agent" />
 </p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Control Panel
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Data Engineering**
+
+Python · SQL · Spark · Kafka · dbt · Airflow · Postgres · MongoDB
+
+</td>
+<td width="33%" valign="top">
+
+**AI / Analytics**
+
+RAG · LLM workflows · feature ranking · anomaly detection · data profiling · notebook automation
+
+</td>
+<td width="33%" valign="top">
+
+**Cloud / Delivery**
+
+Azure · AWS · Snowflake · Databricks · Docker · Flask · Node.js · React
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,scala,js,react,nodejs,postgres,mongodb,azure,aws,docker,kubernetes,git,linux,pytorch,tensorflow&perline=8" alt="Technology stack" />
 
 </div>
 
 ---
 
-## Build Zone
+## Build Direction
 
-<div align="center">
-
-| Analytics | Engineering | AI Layer |
-|---|---|---|
-| SQL modeling | API-backed data apps | Insight generation |
-| Dashboard logic | Data quality checks | Recommendation flows |
-| Metric design | Pipeline automation | Anomaly detection |
-
-</div>
+| Area | What I like building |
+|---|---|
+| **Analytics agents** | Tools that inspect data, retrieve context, generate transparent logic, and explain results |
+| **Quality systems** | Profiling, cleaning, anomaly detection, drift checks, and repeatable cleaning recipes |
+| **Data products** | Practical apps that sit close to real workflows: notebooks, dashboards, APIs, and cloud data sources |
 
 ---
 
 ## GitHub Pulse
 
 <div align="center">
-  <img height="178" src="https://github-readme-stats.vercel.app/api?username=harshith444&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshith444&layout=compact&theme=vue-dark&hide_border=true&langs_count=10" alt="Top languages" />
-</div>
 
-<div align="center">
-  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshith444&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Pulse" alt="Contribution activity graph" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshith444&show_icons=true&include_all_commits=true&hide_border=true&title_color=22D3EE&icon_color=F59E0B&text_color=E2E8F0&bg_color=020617&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshith444&layout=compact&hide_border=true&title_color=22D3EE&text_color=E2E8F0&bg_color=020617&langs_count=8" alt="Top languages" />
+
+<br /><br />
+
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=harshith444&bg_color=020617&color=E2E8F0&line=22D3EE&point=F59E0B&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+
 </div>
 
 ---
@@ -88,12 +127,17 @@ Focused on AI-powered data products, reliable pipelines, modern dashboards, and 
 <div align="center">
 
 <a href="mailto:katakamharshith4@gmail.com">
-  <img src="https://img.shields.io/badge/katakamharshith4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-katakamharshith4%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/harshith-katakam">
-  <img src="https://img.shields.io/badge/LinkedIn-Harshith%20Katakam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-harshith--katakam-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" />
+</a>
+<a href="https://github.com/harshith444">
+  <img src="https://img.shields.io/badge/GitHub-%40harshith444-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" />
 </a>
 
-</div>
+<br /><br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:F59E0B,50:10B981,100:111827" alt="Footer wave" />
+<sub>Profile views <img src="https://komarev.com/ghpvc/?username=harshith444&label=&color=22d3ee&style=flat-square" alt="Profile views" /></sub>
+
+</div>
