@@ -26,10 +26,10 @@ Focused on AI-powered data products, reliable pipelines, modern dashboards, and 
 
 <div align="center">
 
-| Project | What It Does | Stack |
+| Project | Open Repo | What It Does | Stack |
 |---|---|---|
-| [AI Insight Copilot](https://github.com/harshith444/ai-insight-copilot) | Converts business questions into SQL-style logic, summaries, and recommendations | Node.js, JavaScript, CSV analytics |
-| [Data Quality Radar](https://github.com/harshith444/data-quality-radar) | Scores datasets for missing values, duplicates, drift, freshness, and anomalies | Node.js, JavaScript, quality rules |
+| **AI Insight Copilot** | [![Open Repo](https://img.shields.io/badge/Open-ai--insight--copilot-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshith444/ai-insight-copilot) | Converts business questions into SQL-style logic, summaries, and recommendations | Node.js, JavaScript, CSV analytics |
+| **Data Quality Radar** | [![Open Repo](https://img.shields.io/badge/Open-data--quality--radar-F59E0B?style=for-the-badge&logo=github&logoColor=111827)](https://github.com/harshith444/data-quality-radar) | Scores datasets for missing values, duplicates, drift, freshness, and anomalies | Node.js, JavaScript, quality rules |
 
 </div>
 
